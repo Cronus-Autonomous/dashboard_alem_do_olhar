@@ -49,7 +49,7 @@ function DashboardPage() {
         <AiEfficiencyPanel />
 
         <footer className="pt-2 text-center text-[11px] text-dracula-muted">
-          Dados simulados · Atualizado em tempo real · Tema Dracula
+          Atualizado em tempo real
         </footer>
       </div>
     </main>

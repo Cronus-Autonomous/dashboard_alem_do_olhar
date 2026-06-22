@@ -16,7 +16,7 @@ export function DashboardHeader() {
         </div>
         <div className="min-w-0">
           <h1 className="truncate text-xl font-bold text-dracula-fg sm:text-2xl">
-            Olá, Diretor
+            Olá, Patrícia
           </h1>
           <p className="truncate text-xs text-dracula-muted sm:text-sm">
             Visão consolidada da rede · <span className="capitalize">{hoje}</span>
